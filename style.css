@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+h1 {
+    background-color: blue;
+    color: azure;
+    height: 4rem;
+    line-height: 4rem;
+}
+
+img{
+    object-fit: cover;
+}
+
+.choices{
+    display: flex;
+    margin: 50px 40px 50px 40px;
+    justify-content: space-around;
+}
+
+.choice:hover{
+    opacity: 0.5;
+}
+
+.score-board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    font-size: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+#msg {
+    background-color: aquamarine;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+    display: inline;
+    padding: 10px;
+    border-radius: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
